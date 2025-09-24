@@ -66,7 +66,7 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart }) => {
       
       <footer className="text-slate-500 text-center text-sm pb-4 z-10">
         <a 
-          href="https://github.com/vinay" 
+          href="https://github.com/vin-win-012/lucky-draw-app.git" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="inline-flex items-center gap-2 transition-colors hover:text-amber-300"
